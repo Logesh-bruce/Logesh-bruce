@@ -22,12 +22,8 @@
 
 <br>
 
-<!-- Snake contribution animation — see setup note at the bottom -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Logesh-bruce/Logesh-bruce/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Logesh-bruce/Logesh-bruce/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Logesh-bruce/Logesh-bruce/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<!-- Commit activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Logesh-bruce&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="commit activity graph" />
 
 <br><br>
 
@@ -175,8 +171,8 @@ fun_fact: "Shipped a phishing detector that scores risk in <120ms and explains t
 <div align="center">
 
 <a href="mailto:logeshmg432006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/YOUR-LEETCODE-HANDLE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/logeshmg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/logesh_m_g/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 <br><br>
 
