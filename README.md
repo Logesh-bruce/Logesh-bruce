@@ -1,176 +1,97 @@
-<div align="center">
+# Logesh M G
 
-<!-- Typing animation header -->
-<a href="https://github.com/Logesh-bruce">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Logesh+M+G+%F0%9F%91%8B;Full-Stack+Developer+%7C+Java+%2B+Spring+Boot+%2B+React;I+build+AI-powered%2C+production-grade+systems;Currently+exploring+System+Design+%26+DSA&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=800&color=58A6FF&vCenter=true&size=24" alt="Typing SVG" />
-</a>
+**Full-Stack Developer** — React.js · Spring Boot · Java · REST APIs · AI-Integrated Security
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Logesh-bruce&label=Profile+Views&color=58A6FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Logesh-bruce?label=Followers&style=for-the-badge&color=58A6FF" />
-  <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge" />
-</p>
+Karur, Tamil Nadu, India · [logeshmg432006@gmail.com](mailto:logeshmg432006@gmail.com) · [LinkedIn](https://www.linkedin.com/in/logeshmg/) · [LeetCode](https://leetcode.com/u/logesh_m_g/)
 
-<p>
-  <a href="mailto:logeshmg432006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/logeshmg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/logesh_m_g/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="tel:+919597041575"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
+---
 
-</div>
+## About
 
-<br><br>
+- B.Tech in Information Technology, V.S.B Engineering College (2023–2027, CGPA 8.23/10)
+- Building scalable full-stack applications with React.js, Spring Boot, and Java — focused on secure REST API design and JWT-based authentication
+- Shipped a production-style AI/ML integration: a phishing detection platform combining client-side ML scoring with the Claude AI API for real-time threat analysis
+- Two completed internships (Web Development, Java Development) with hands-on Git collaboration workflows
+- Currently deepening backend system design and DSA fundamentals
+- Open to Full-Stack Developer / Software Engineer internship and fresher roles
 
-## 🧭 About Me
+---
 
-```yaml
-name: Logesh M G
-role: Full-Stack Developer (Fresher)
-location: Karur, Tamil Nadu, India
-education: B.Tech Information Technology, V.S.B Engineering College (CGPA 8.23/10, 2023-2027)
-focus: Java · Spring Boot · React.js · REST APIs · AI/ML Integration
-currently_building: ["Advanced DSA", "Backend system design", "AI-driven security tooling"]
-looking_for: Full-Stack Developer / SDE internship & fresher roles
-fun_fact: "Shipped a phishing detector that scores risk in <120ms and explains the threat via Claude AI"
-```
-
-- 🔭 Building production-style systems, not tutorial clones — see **PhishGuard AI** below
-- 🧠 Strong on OOP fundamentals, exception handling, and clean REST API design
-- 🌐 Comfortable across the stack: React frontend → Spring Boot backend → PostgreSQL/MySQL
-- 🤝 Two internships completed (web dev + Java dev) with real collaborative Git workflows
-- 📫 Reach me at **logeshmg432006@gmail.com**
-
-<br>
-
-## 🧰 Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
+## Tech Stack
 
 **Languages**
-<br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Frontend**
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend**
-<br>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
-
-</td>
-<td valign="top" width="50%">
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
 **Database**
-<br>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **AI / Security**
-<br>
-<img src="https://img.shields.io/badge/Claude_AI_API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/ML_Feature_Engineering-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+![Claude AI API](https://img.shields.io/badge/Claude_AI_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ML Feature Engineering](https://img.shields.io/badge/ML_Feature_Engineering-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 **Tools**
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-</td>
-</tr>
-</table>
+---
 
-<br>
+## Featured Projects
 
-## 🚀 Featured Projects
+### [PhishGuard AI](https://github.com/Logesh-bruce/Real-Time-AI-ML-Based-Phishing-Detection-and-Prevention-System-) — Real-Time Phishing Detection & Prevention System
+`React` · `Claude AI API` · `ML Feature Engineering` · `Node.js` · `Cybersecurity`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+A dual-layer detection engine pairing instant client-side ML scoring with Claude AI-powered contextual analysis for phishing identification.
+- 20+ custom URL feature extractors (IP detection, TLD risk, brand spoofing, keyword signals) aggregated into a weighted 0–100 risk score
+- Claude AI integration surfaces threat type, attack vector, target demographic, and remediation steps in real time
+- Full analytics dashboard with live scan history and global threat monitoring
+- Sub-120ms ML detection latency; complete AI-enriched analysis in under 4 seconds end-to-end
 
-### 🛡️ [PhishGuard AI](https://github.com/Logesh-bruce/Real-Time-AI-ML-Based-Phishing-Detection-and-Prevention-System-)
-**Real-time phishing detection & prevention system**
+**[Live Demo](https://real-time-ai-ml-based-phishing-dete.vercel.app/)** · **[Source](https://github.com/Logesh-bruce/Real-Time-AI-ML-Based-Phishing-Detection-and-Prevention-System-)**
 
-`React` `Claude AI API` `ML` `Node.js` `Cybersecurity`
+### [EcoBazaar](https://github.com/Logesh-bruce/Eco-Bazaar) — Full-Stack E-Commerce Platform
+`React` · `Java` · `Spring Boot` · `PostgreSQL` · `REST APIs`
 
-- Dual-layer engine: client-side ML scoring + Claude AI deep contextual analysis
-- 20+ custom URL feature extractors → weighted 0–100 risk score
-- Threat intel output: attack vector, target demographic, remediation steps
-- Live analytics dashboard with global threat monitoring
+A production-grade e-commerce platform covering end-to-end product browsing, cart management, and order processing.
+- Role-based access control (User, Seller, Admin) with secure session integrity across all endpoints
+- 15+ RESTful API endpoints spanning product catalog, order lifecycle, and account management
+- Indexed PostgreSQL queries optimized for high-frequency read operations
+- Centralized exception handling and server-side validation for consistent API responses
 
-**Impact:** sub-120ms ML detection · full AI analysis in <4s
+**[Live Demo](https://eco-bazaar-virid.vercel.app/)** · **[Source](https://github.com/Logesh-bruce/Eco-Bazaar)**
 
-[🔗 Live Demo](#) · [📂 Source](https://github.com/Logesh-bruce/Real-Time-AI-ML-Based-Phishing-Detection-and-Prevention-System-)
+---
 
-</td>
-<td width="50%" valign="top">
+## Experience
 
-### 🛒 [EcoBazaar](https://github.com/Logesh-bruce/Eco-Bazaar)
-**Full-stack e-commerce platform**
+| Role | Organization | Duration |
+|---|---|---|
+| Java Development Intern | Infosys Springboard (Virtual) | Nov 2025 – Jan 2026 |
+| Web Development Intern | EtherinfoTech, Coimbatore | Jun 2024 – Jul 2024 |
 
-`React` `Java` `Spring Boot` `PostgreSQL`
+---
 
-- End-to-end browsing, cart, and order processing flows
-- Role-based access control (User / Seller / Admin)
-- 15+ REST endpoints across catalog, orders, accounts
-- Indexed PostgreSQL queries for high-frequency reads
+## GitHub Stats
 
-**Impact:** centralized exception handling · validated, consistent API responses
+<img src="https://github-readme-stats.vercel.app/api?username=Logesh-bruce&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logesh-bruce&layout=compact&theme=default&hide_border=true" height="165" />
 
-[🔗 Live Demo](#) · [📂 Source](https://github.com/Logesh-bruce/Eco-Bazaar)
+---
 
-</td>
-</tr>
-</table>
+## Contact
 
-<br>
-
-## 💼 Experience
-
-<table>
-<tr><th>Role</th><th>Company</th><th>Duration</th></tr>
-<tr><td>Java Development Intern</td><td>Infosys Springboard (Virtual)</td><td>Nov 2025 – Jan 2026</td></tr>
-<tr><td>Web Development Intern</td><td>EtherinfoTech, Coimbatore</td><td>Jun 2024 – Jul 2024</td></tr>
-</table>
-
-<br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Logesh-bruce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Logesh-bruce&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logesh-bruce&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Logesh-bruce&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
-<br>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:logeshmg432006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/logeshmg/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/logesh_m_g/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-
-<br><br>
-
-<i>⭐️ Fresher full-stack developer shipping real, working products — not just tutorial clones.</i>
-
-</div>
+[Email](mailto:logeshmg432006@gmail.com) · [LinkedIn](https://www.linkedin.com/in/logeshmg/) · [LeetCode](https://leetcode.com/u/logesh_m_g/) · [Phone](tel:+919597041575)
